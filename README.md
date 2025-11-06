@@ -1,2 +1,1 @@
-# safari-shield
-AI-Powered Travel Risk Intelligence &amp; Emergency Safety Platform
+SafiriShield is an intelligent travel-safety companion designed to help travellers stay secure, culturally aware, and confident as they move across different countries and cities. The platform provides real-time safety alerts, safety scoring, cultural guidance (“Dos & Don’ts”), and AI-powered travel risk assistance.
